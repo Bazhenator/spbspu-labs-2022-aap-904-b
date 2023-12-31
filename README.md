@@ -9,4 +9,4 @@ archived C++ repository (Algorithmization and Programming). first term 2022.
 4. [Pelipeychenko Denis](https://github.com/Bazhenator/spbspu-labs-2022-aap-904-b/tree/pelipeychenko.denis/pelipeychenko.denis)
 5. [Ponomarev Alexander](https://github.com/Bazhenator/spbspu-labs-2022-aap-904-b/tree/ponomarev.alexander/ponomarev.alexander)
 6. [Siobko Boris](https://github.com/Bazhenator/spbspu-labs-2022-aap-904-b/tree/siobko.boris/siobko.boris)
-> **Polytech, HSPI, FIIT, 2022.**
+> **Polytech, HSPE, FIIT, 2022.**
